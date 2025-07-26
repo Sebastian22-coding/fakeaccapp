@@ -1,0 +1,4 @@
+playwright==1.40.0
+asyncio
+pathlib
+typing-extensions==4.8.0
